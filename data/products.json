@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Lámpara The Hype",
+      "price": 890,
+      "description": "Lámpara portátil con base impresa en 3D.",
+      "images": ["img/hype.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Lámpara Saturday",
+      "price": 750,
+      "description": "Diseño con luz tenue y recargable.",
+      "images": ["img/saturday.jpg", "img/saturday2.jpg", "img/saturday3.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Lámpara Bounce",
+      "price": 800,
+      "description": "Lámpara de mesa con luz cálida.",
+      "images": ["img/bounce.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Lámpara Dema",
+      "price": 950,
+      "description": "Lámpara de pie con diseño moderno.",
+      "images": ["img/dema.jpg", "img/dema2.jpg", "img/dema3.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Lámpara Blurry",
+      "price": 700,
+      "description": "Lámpara de escritorio con luz LED.",
+      "images": ["img/blurry.jpg", "img/blurry2.jpg"]
+    },
+    {
+      "id": 6,
+      "name": "Lámpara Jump",
+      "price": 850,
+      "description": "Lámpara de pared con luz ambiental.",
+      "images": ["img/jump.jpg"]
+    }
+  ]
+  
