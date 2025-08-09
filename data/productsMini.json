@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Lámpara Mini hype",
+      "price": 890,
+      "description": "Lámpara portátil con base impresa en 3D.",
+      "image": ["img/hype.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Lámpara Mini saturday",
+      "price": 750,
+      "description": "Diseño con luz tenue y recargable.",
+      "image": ["img/saturday.jpg", "img/saturday2.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Lámpara Mini bounce",
+      "price": 800,
+      "description": "Lámpara de mesa con luz cálida.",
+      "image": ["img/bounce.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Lámpara Mini dema",
+      "price": 950,
+      "description": "Lámpara de pie con diseño moderno.",
+      "image": ["img/dema.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Lámpara Mini Blurry",
+      "price": 700,
+      "description": "Lámpara de escritorio con luz LED.",
+      "image": ["img/blurry.jpg"]
+    },
+    {
+      "id": 6,
+      "name": "Lámpara Mini Jump",
+      "price": 850,
+      "description": "Lámpara de pared con luz ambiental.",
+      "image": ["img/jump.jpg"]
+    }
+  ]
+  
